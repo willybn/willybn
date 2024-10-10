@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @willybn
-- 👀 I’m interested in testing my code
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me willybn2004@hotmail.com
-- 😄 Pronouns: Any
-- ⚡ Fun fact: Mexican
